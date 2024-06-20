@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386c7392-5131-42ad-9826-865755ca7a0c" name="Changes" comment="Start hw">
-      <change beforePath="$PROJECT_DIR$/test_hw_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_hw_5.py" afterDir="false" />
+    <list default="true" id="386c7392-5131-42ad-9826-865755ca7a0c" name="Changes" comment="Hw 5">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for test_hw_5.test_dark_theme_by_time_and_user_choice.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_hw_5.test_find_suitable_user.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.Python tests for test_hw_5.test_dark_theme_by_time_and_user_choice.executor": "Run",
+    "Python tests.Python tests for test_hw_5.test_find_suitable_user.executor": "Run",
+    "Python tests.Python tests for test_hw_5.test_readable_function.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_hw_5.test_find_suitable_user">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_hw_5.test_readable_function">
     <configuration name="Python tests for test_hw_5.test_dark_theme_by_time_and_user_choice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="hw_py_5" />
       <option name="ENV_FILES" value="" />
@@ -72,8 +74,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_hw_5.test_readable_function" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hw_py_5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hw_5.test_readable_function&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_hw_5.test_readable_function" />
         <item itemvalue="Python tests.Python tests for test_hw_5.test_find_suitable_user" />
         <item itemvalue="Python tests.Python tests for test_hw_5.test_dark_theme_by_time_and_user_choice" />
       </list>
@@ -127,11 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1718018156822</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hw 5">
+      <option name="closed" value="true" />
+      <created>1718884276651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718884276651</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hw 5">
+      <option name="closed" value="true" />
+      <created>1718884334906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718884334906</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start hw" />
+    <MESSAGE value="Hw 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hw 5" />
   </component>
 </project>
