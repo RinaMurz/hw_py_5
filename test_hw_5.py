@@ -14,7 +14,6 @@ def test_dark_theme_by_time():
         is_dark_theme = False
     assert is_dark_theme is True
 
-
 def test_dark_theme_by_time_and_user_choice():
     """
     Протестируйте правильность переключения темной темы на сайте
